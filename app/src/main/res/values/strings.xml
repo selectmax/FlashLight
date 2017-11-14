@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">FlashLight</string>
+    <string name="error_text">Flashlight is not available</string>
+    <string name="error_title">Error!</string>
+    <string name="exit_message">Exit</string>
+</resources>
